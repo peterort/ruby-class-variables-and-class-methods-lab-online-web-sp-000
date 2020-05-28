@@ -1,2 +1,2 @@
-class Song
+class Song(name, artist, genre)
 end
